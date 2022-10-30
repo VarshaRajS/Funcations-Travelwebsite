@@ -1,0 +1,17 @@
+.heading{
+    text-align: center;
+    font-weight: 100;
+    font-size: 400%;
+    font-family: 'Dancing Script', cursive;
+    color: rgb(5, 5, 114);
+    margin-top: 30px;
+}
+.heading:hover{
+    color:rgb(115, 115, 248);
+}
+.footer{
+    text-align: center;
+    height:7rem;
+    background-color: rgb(131, 129, 129);
+    color: rgb(62, 61, 61);
+}
