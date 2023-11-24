@@ -9,11 +9,6 @@
 - HTML
 - CSS
 - Bootstrap
-
-
-## Live Link
-This is the live link for the project.
-https://github.com/VarshaRajS/Funcations-Travelwebsite/deployments/activity_log?environment=github-pages
-
+  
 ## Feedback Form
 https://forms.gle/BSDsrQgFxWuwjoVdA
